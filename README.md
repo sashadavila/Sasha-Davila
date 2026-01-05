@@ -1,23 +1,65 @@
-# Sasha-Davila
-<h1 align="center">Hola 👋, soy Sasha Dávila</h1>
-<h3 align="center">Una apasionada desarrolladora backend de Argentina</h3>
+# 👋 Hola, soy Sasha Davila
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sashadavila&label=Profile%20views&color=0e75b6&style=flat" alt="sashadavila" /> </p>
+## 💻 ¿Quién soy?
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sashadavila" alt="sashadavila" /></a> </p>
+Soy **Técnica Programadora** y **Backend Developer**, graduada del **Bootcamp Henry** con especialización en **Backend**. Me apasiona construir aplicaciones robustas, escalables y bien estructuradas, con foco en buenas prácticas, arquitectura y calidad de código.
 
-- 🔭 Actualmente estoy trabajando en [Cleengo](https://github.com/CleenGo/CleenGo-Back.git)
+Me siento especialmente cómoda trabajando del lado del servidor, diseñando APIs, modelando bases de datos y resolviendo problemas complejos de lógica.
 
-- 👯 Estoy buscando colaborar en [Skillnet](https://github.com/SkillNet-PF/SkillNet-Back.git)
+---
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/sashadavila?tab=repositories](https://github.com/sashadavila?tab=repositories)
+## 🚀 ¿Qué hago?
 
-- 💬 Pregúntame sobre **nestjs, node, back**
+* Desarrollo **APIs REST** y lógica de negocio en backend
+* Diseño y gestión de **bases de datos relacionales**
+* Integración de **pasarelas de pago** y servicios externos
+* Implementación de **autenticación, validaciones y seguridad**
+* Trabajo con control de versiones y flujos colaborativos
 
-- 📫 Cómo contactarme **sashadavila@gmail.com**
+---
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sashadavila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sashadavila" height="30" width="40" /></a>
-</p>
+## 🛠️ Tecnologías que uso
 
+### Backend
+
+* **NestJS**
+* **Node.js**
+* **TypeScript**
+* **TypeORM**
+
+### Bases de datos
+
+* **PostgreSQL**
+* **Supabase**
+
+### Herramientas y otros
+
+* **Git & GitHub**
+* **Swagger / OpenAPI**
+* **Stripe (pagos)**
+* **REST APIs**
+* **Express**
+
+---
+
+## 📂 Proyectos
+
+En este perfil vas a encontrar proyectos enfocados principalmente en **backend**, donde aplico:
+
+* Arquitectura modular
+* Buenas prácticas
+* Código limpio y mantenible
+
+*(Próximamente más proyectos y mejoras)*
+
+---
+
+## 📫 Contacto
+
+* 💼 **LinkedIn:** *(agregar link)*
+* 📧 **Email:** *(agregar email)*
+* 🌐 **GitHub:** [github.com/tu-usuario](https://github.com/tu-usuario)
+
+---
+
+✨ Siempre abierta a aprender, crecer y enfrentar nuevos desafíos en el mundo del desarrollo backend.
