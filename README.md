@@ -56,9 +56,9 @@ En este perfil vas a encontrar proyectos enfocados principalmente en **backend**
 
 ## 📫 Contacto
 
-* 💼 **LinkedIn:** *(agregar link)*
-* 📧 **Email:** *(agregar email)*
-* 🌐 **GitHub:** [github.com/tu-usuario](https://github.com/tu-usuario)
+* 💼 **LinkedIn:** www.linkedin.com/in/sasha-davila
+* 📧 **Email:** sashadavila96@gmail.com
+* 🌐 **GitHub:** https://github.com/sashadavila
 
 ---
 
